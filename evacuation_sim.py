@@ -1,6 +1,8 @@
 import numpy as np
 from vedo import Plotter, Plane, Sphere, Line
 
+# https://youtu.be/sxip_Lju69U
+
 np.random.seed(7)
 
 # basic setup values
